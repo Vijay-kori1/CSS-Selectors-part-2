@@ -1,0 +1,18 @@
+h2~h1{
+    color: darkslategray;
+}
+h3+h1{
+    color: blue;
+}
+div>p>b{
+    color: red;
+}
+p>i{
+    color: blueviolet;
+}
+p>u{
+    color: chartreuse;
+}
+div p{
+    color: chocolate;
+}
